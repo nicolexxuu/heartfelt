@@ -1,2 +1,4 @@
 # heartfelt
-Code for M&amp;TSI 2022 final project
+M&TSI 2022
+
+Code for [Group 13's final project](https://devpost.com/software/team-13-heartfelt-d1g3a5)
